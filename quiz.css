@@ -1,0 +1,30 @@
+body{
+    color: gold;
+    background-image: url("windows.png");
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+header{
+    text-align: center;
+}
+
+#quiz{
+    margin-top: 3em;
+    margin-left: 10em;
+    font-size: 30px;
+}
+
+button{
+    background-color: gold;
+    color: rgb(4, 3, 69);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
